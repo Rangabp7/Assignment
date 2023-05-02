@@ -61,7 +61,7 @@ public class InfrastructureApp {
 			}
 		}
 		//Display array contents
-		System.out.println("Display array are");
+		System.out.println("Display cables are");
 		for(int i=0;i<=cables.length-1;i++)
 		{
 			for(int j=0;j<=cables[i].length-1;j++)
@@ -106,7 +106,7 @@ Enter a Element
 1
 Enter a Element
 3
-Display array are
+Display cables are
 0 1 
 0 3 
 1 2 
@@ -131,7 +131,7 @@ Enter a Element
 1
 Enter a Element
 2
-Display array are
+Display cables are
 0 1 
 0 3 
 1 2 
