@@ -77,11 +77,11 @@ public class InfrastructureApp {
 Output:
 
 Example 1:
-input:n=4 and cables={{0,1},{0,3},{1,2},{1,3}}
+input:n=4 and cables={{0,1},{0,3},{1,2},{1,3}};
 output:Maximum Rank is 4
 
 Example 2:
-input:n=4 and cables={{0,1},{0,3},{1,2}}
+input:n=4 and cables={{0,1},{0,3},{1,2}};
 output:Maximum Rank is 3
 
 For Example 1:
